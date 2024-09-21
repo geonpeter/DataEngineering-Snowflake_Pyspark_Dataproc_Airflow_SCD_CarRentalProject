@@ -1,0 +1,10 @@
+{
+    "sfURL": "https://lmpyhix-bq53873.snowflakecomputing.com",
+    "sfAccount": "lmpyhix-bq53873",
+    "sfUser": "admin",
+    "sfPassword": "admin",
+    "sfDatabase": "car_rental",
+    "sfSchema": "PUBLIC",
+    "sfWarehouse": "COMPUTE_WH",
+    "sfRole": "ACCOUNTADMIN"
+}
